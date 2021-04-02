@@ -7,7 +7,7 @@ session_start();
 // http://localhost/pdo_mvc/index.php? c=contrador & a=accion & id=identificador
 // var_dump(isset($_SESSION["user"]));
 
-$controller = array('Login','Productos','Ventas','Clientes');
+$controller = array('Login','Productos');
 $valor_c = isset($_REQUEST['c'])? $_REQUEST['c']: null ;
 $valor_a = isset($_REQUEST['a'])? $_REQUEST['a']: 'Index' ;
 $session_auth = isset($_SESSION["user"]);
