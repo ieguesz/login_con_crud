@@ -1,4 +1,4 @@
-<?php
+	<?php
 //requiere por unica ves el modelo que contiene la base de datos;
 require_once 'model/database.php';
 session_start();
