@@ -1,12 +1,10 @@
-# login_con_crud
-sitio web echo con puro php
-Las credenciales son:
-[1]
-usuario : admin
-password : admin
-[2]
-usuario : user
-password : user
-[3]
-usuario : special
-password : special
+<p> login_con_crud sitio web echo con puro php<br>Las credenciales son:</p>
+<span>[1]</span></br>
+<p>usuario : admin</br>
+password : admin</p>
+<span>[2]</span>
+<p>usuario : user</br>
+password : user</p>
+<span>[3]</span>
+<p>usuario : special</br>
+password : special</p>
